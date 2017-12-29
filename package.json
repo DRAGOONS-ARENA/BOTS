@@ -1,0 +1,26 @@
+{
+  "name": "my-glitch-app",
+  "version": "0.0.1",
+  "description": "What am I about?",
+  "main": "aoc.js",
+  "scripts": {
+    "start": "node aoc.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "http": "^0.0.0",
+    "discord.js": "^11.2.1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
